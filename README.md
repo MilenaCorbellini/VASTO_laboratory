@@ -22,11 +22,11 @@ A good bibliography about Varchi suggested by Dario Brancato is formed by:
 As Storia Fiorentina, in addition to the essay by von Albertini, Dario Brancato suggested:
 - the introductory note by Angelo Baiocchi, *Storici e politici fiorentini del Cinquecento*, Milano-Napoli, Ricciardi, 1994, on pp. 735-752;
 - the article by V. Bramanti *Viatico per la Storia fiorentina di Benedetto Varchi*, «Rivista Storica Italiana», 114.3 (2002), pp. 880-928, now in Id., *Uomini e libri del cinquecento fiorentino*, Manziana, Vecchiarelli, 2017, pp. 147-200;
-- Brancato's and Lo Re's work attached [here](https://www.dropbox.com/s/qook0npxh7zcrnt/00BrancatoLoRe%20Annali%20SNS.pdf?dl=0).
+- Brancato's and Lo Re's work, [D. Brancato, S. Lo Re, *Per una nuova edizione della Storia del Varchi: il problema storico e testuale*, «Annali della Scuola Normale Superiore di Pisa», V s., vol. 7, fasc. 1 (2016), pp. 201-231; 271-272.](https://www.dropbox.com/s/qook0npxh7zcrnt/00BrancatoLoRe%20Annali%20SNS.pdf?dl=0).
 
 
 Handwritten and printed tradition:
-A first census of the manuscripts can be found in the note by Simone Albonico to the *Storici e politici fiorentini* mentioned above (pages 1073-1090), the article with Lo Re mentioned above and two of Bancato's chapters, which you can find [here](https://www.dropbox.com/s/9ybumonr2xr535m/00Brancato%20Filologia%20di%20e%20per%20Cosimo.pdf?dl=0) and [here](https://www.dropbox.com/s/3ut3dma8867js0j/CollanaSV_02_Brancato.pdf?dl=0) (the second is being printed and will come out for a miscellaneous edited by Lucia Felici and entitled *Firenze nella crisi religiosa del Cinquecento(1498-1569)*).
+A first census of the manuscripts can be found in the note by Simone Albonico to the *Storici e politici fiorentini* mentioned above (pages 1073-1090), the article with Lo Re mentioned above and two of Bancato's chapters (D. Brancato, Filologia di (e per) Cosimo: la revisione della Storia fiorentina di Benedetto Varchi, in La Filologia italiana nel Rinascimento, a cura di Carlo Caruso ed Emilio Russo, Roma, Edizioni di Storia e Letteratura. 2018, pp. 257-274.), which you can find [here](https://www.dropbox.com/s/9ybumonr2xr535m/00Brancato%20Filologia%20di%20e%20per%20Cosimo.pdf?dl=0) and [here](https://www.dropbox.com/s/3ut3dma8867js0j/CollanaSV_02_Brancato.pdf?dl=0) (the second is being printed and will come out for a miscellaneous edited by Lucia Felici and entitled *Firenze nella crisi religiosa del Cinquecento(1498-1569)*).
 
 
 It must be kept in mind that Varchi died suddenly while he was preparing his transfer from Florence to Montevarchi (the town where the paternal branch of his family originated, hence his nickname "Varchi") and when he had not yet finished working on history.
